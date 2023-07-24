@@ -1,3 +1,5 @@
+LinkUp: a vibrant social website fueled by React.js & Supabase. Seamlessly connect with like-minded individuals through a user-friendly interface & real-time interactions. React.js ensures smooth navigation & responsive design. Supabase powers secure data management, safeguarding privacy & enabling robust communication. Share, connect & explore shared interests on LinkUp's dynamic platform. Unite globally & experience a new era of social networking! 🌐🤝 #LinkUp #Reactjs #Supabase #SocialNetwork
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
